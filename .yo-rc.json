@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "atomfrede",
+      "authorName": "Frederik Hahne",
+      "authorEmail": "frederik.hahne@jhipster.tech",
+      "authorUrl": "https://atomfrede.gitlab.io"
+    }
+  }
+}
